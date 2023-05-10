@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     static int find(int a ,int []parent)
     {
         if(a==parent[a])
